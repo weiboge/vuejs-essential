@@ -44,7 +44,6 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     assetsPublicPath: '/vuejs-essential/dist/',
-
     /**
      * Source Maps
      */
